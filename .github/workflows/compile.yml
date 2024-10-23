@@ -10,7 +10,7 @@ on:
 
 jobs:
   compile-and-release:
-    name: Rust project
+    name: compile resume and release pdf
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
