@@ -1,4 +1,4 @@
-#import "@preview/basic-resume:0.1.3": work, project, dates-helper, resume, certificates
+#import "@preview/basic-resume:0.1.3": work, project, dates-helper, resume
 
 #let font = "New Computer Modern"
 #let accent-color = "#26428b"
