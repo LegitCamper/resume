@@ -1,4 +1,4 @@
-#import "@preview/basic-resume:0.1.3": work, project, dates-helper, resume
+#import "@preview/basic-resume:0.1.3": work, project, dates-helper, resume, certificates
 
 #let font = "New Computer Modern"
 #let accent-color = "#26428b"
@@ -40,35 +40,35 @@
 #certificates(
   name: "Security+",
   issuer: "CompTIA",
-  url: "short.sawyer.services/secplus",
+  url: "sawyer.services/secplus",
   date: "June 2024"
 )
 
 #certificates(
   name: "CCNA: Switching, Routing, and Wireless Essentials",
   issuer: "Cisco",
-  url: "short.sawyer.services/ccna",
+  url: "sawyer.services/ccna",
   date: "Oct 2020"
 )
 
 #certificates(
   name: "Azure App Service Cong & Mgmt Specialist",
   issuer: "Microsoft",
-  url: "short.sawyer.services/conf",
+  url: "sawyer.services/conf",
   date: "Apr 2023"
 )
 
 #certificates(
   name: "Azure App Service OSS Specialist",
   issuer: "Microsoft",
-  url: "short.sawyer.services/oss",
+  url: "sawyer.services/oss",
   date: "Apr 2023"
 )
 
 #certificates(
   name: "IT Fundamentals (ITF+)",
   issuer: "CompTIA",
-  url: "short.sawyer.services/itfplus",
+  url: "sawyer.services/itfplus",
   date: "July 2020"
 )
 
