@@ -113,7 +113,7 @@
   company: "Tek Experts",
   dates: dates-helper(start-date: "Sep 2021", end-date: "Jun 2022"),
 )
-- Helped customer quickly facing Azure tenant migration issues
+- Assisted customers in efficiently resolving Azure tenant migration issues, ensuring a seamless transition to the new environment.
 - Went above and beyond to ensure the issue was not only solved but their configuration abided the recommend account safety configurations
 - Learned the Azure platform to better assist customer issues bridging several Azure products
 - Helped fix the training program to prepare engineers for Azure support Increased department CSAT by 15% compared to previous months
