@@ -40,8 +40,8 @@
         columns: 3,
         gutter: 0mm,
         [ #image("assets/security_plus.png", width: 40%) ],
-        [ #image("assets/ccna.png", width: 40%) ],
-        [ #image("assets/itf_plus.png", width: 40%) ],
+        [ #image("assets/ccna.png", width: 35%) ],
+        [ #image("assets/itf_plus.png", width: 45%) ],
       ),
     )
   }
