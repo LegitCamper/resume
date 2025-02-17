@@ -136,7 +136,6 @@
 
     if admin {
       project(
-        role: "Maintainer",
         name: "Homelab",
         url: "github.com/LegitCamper/homelab",
       )
@@ -148,6 +147,7 @@
       [- Grafana (Dashboard Tool): Displays Prometheus data in visual charts and graphs, making it easier to monitor systems by presenting raw metrics in an accessible format.]
       [- Monitoring and Alerting: Utilizes Loki's logs to send real-time alerts when issues arise, enabling quick identification of problems.]
       [- Volumes and File Paths: Consistent volume management ensures that files are stored in predictable locations, avoiding conflicts or inconsistencies due to varied storage setups.]
+      [- Fedora Atomic/Ublue ucore: Provides a reliable robust platform reducing downtime associated update conflicts, or system behavior.]
     }
   }
 
