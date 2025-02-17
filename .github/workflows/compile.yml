@@ -17,8 +17,12 @@ jobs:
       - uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
-      - run: cargo install typst-cli && typst compile resume.typ
+      - run: cargo install typst-cli && ./compile.sh
       - uses: actions/upload-artifact@v4
         with:
           name: resume
-          path: resume.pdf
+          path: |
+            resume.pdf
+            resume-support.pdf
+            resume-dev.pdf
+            resume-admin.pdf
