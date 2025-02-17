@@ -4,6 +4,6 @@
   badges: true,
   certs: true,
   support: false,
-  developer: true,
+  developer: false,
   admin: true,
 )

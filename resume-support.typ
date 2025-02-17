@@ -3,7 +3,7 @@
 #resume(
   badges: true,
   certs: true,
-  support: false,
-  developer: true,
-  admin: true,
+  support: true,
+  developer: false,
+  admin: false,
 )
