@@ -5,6 +5,6 @@ My resume written in Typst
 install typst
 `cargo install --locked typst-cli`
 then compile it
-`typst compile resume.typ`
+`typst compile resume.typ #--input admin=true`
 
 
