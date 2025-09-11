@@ -101,7 +101,7 @@
     title: "Cloud Support Engineer Tier 2",
     location: "Colorado Springs",
     company: "Tek Experts",
-    dates: dates-helper(start-date: "Jun 2022", end-date: "Jan 2025"),
+    dates: dates-helper(start-date: "Jun 2022", end-date: "Feb 2024"),
   )
   [
     - Supporting Azure application deployments by utilizing the Azure App Services platform
@@ -163,6 +163,27 @@
     if developer {
       project(
         role: "Maintainer",
+        name: "PicoCalc OS",
+        url: "github.com/LegitCamper/picocalc-os-rs",
+      )
+      [
+        - Designed and maintained a custom kernel targeting the RP2040, written in Rust with a focus on safety and performance
+      ]
+      [
+        - Implemented a tile-based framebuffer driver to efficiently render graphics with limited RAM
+      ]
+      [
+        - Built low-level system call interfaces and userland abstractions for graphics, input, and process management
+      ]
+      [
+        - Developed bootstrapping, binary loading, and relocation support for running user programs on bare metal
+      ]
+      [
+        - Debugged complex issues including PIO, DMA, and hardfault handling in a constrained embedded environment
+      ]
+
+      project(
+        role: "Maintainer",
         name: "Icy Browser",
         url: "github.com/LegitCamper/icy_browser",
       )
@@ -182,7 +203,7 @@
 
     if admin {
       project(
-        name: "Homelab",
+        name: "Homelab Server",
         url: "github.com/LegitCamper/homelab",
       )
       [
