@@ -123,7 +123,7 @@
     title: "Azure Support Engineer (User Management) ",
     location: "Colorado Springs",
     company: "Tek Experts",
-    dates: dates-helper(start-date: "Sep 2021", end-date: "Jun 2022"),
+    dates: dates-helper(start-date: "Sep 2021", end-date: "Jun 2023"),
   )
   [
     - Streamlined Azure tenant migration processes for customers, ensuring a seamless transition to new environments
@@ -142,7 +142,7 @@
     title: "Geek Squad Agent",
     location: "Colorado Springs",
     company: "Geek Squad / Best Buy",
-    dates: dates-helper(start-date: "Jun 2022", end-date: "Aug 2022"),
+    dates: dates-helper(start-date: "May 2021", end-date: "Aug 2021"),
   )
   [
     - Identified hardware and software issues using diagnostic tools and troubleshooting techniques, ensuring accurate problem resolution
