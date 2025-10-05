@@ -151,7 +151,7 @@
     - Provided exceptional customer service by addressing inquiries, concerns, and technical questions with patience, professionalism, and clear communication
   ]
   [
-    - Assisted clients in resolving issues promptly while maintaining high operational standards forGeeksquad's services
+    - Assisted clients in resolving issues promptly while maintaining high operational standards for Geeksquad's services
   ]
   [
     - Continuously updated knowledge on best practices to ensure efficient troubleshooting and problem-solving
@@ -239,7 +239,7 @@
   [== Skills and Interests]
   if support {
     [
-      - *Customer Support*: Problem-Solving, Patience, Empathy, Time Management, Attention to Detail
+      - *Soft Skills*: Problem-Solving, Patience, Empathy, Time Management, Attention to Detail
     ]
   }
   if developer {
@@ -253,7 +253,9 @@
       - *Networking*: Nginx/Traefik(HTTP & HTTPS, TCP & UDP routing), IPTables, Tailscaile, Split DNS
     ]
   }
-  [- *Infrastructure*: AWS, Azure, Google Cloud, Digital Ocean]
+  if developer or admin {
+    [- *Infrastructure*: AWS, Azure, Google Cloud, Digital Ocean]
+  }
   [
     - *Interests*: Systems & Embedded programming, Cyber-security, and self-hosting
   ]
